@@ -1,0 +1,3 @@
+include ':app', ':camera2', ':library', ':demo', ':camera3', ':camera4'
+
+include ':camera1'

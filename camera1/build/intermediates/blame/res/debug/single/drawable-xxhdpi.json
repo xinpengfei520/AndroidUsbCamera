@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_switch_camera.png",
+        "source": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\src\\main\\res\\drawable-xxhdpi\\icon_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_take_photo.png",
+        "source": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\src\\main\\res\\drawable-xxhdpi\\btn_take_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\xin\\Desktop\\Camera\\Android-UsbCamera\\camera1\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

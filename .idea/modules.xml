@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\Android-UsbCamera.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\Android-UsbCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidUsbCamera.iml" filepath="$PROJECT_DIR$/AndroidUsbCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\app\app.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera1/camera1.iml" filepath="$PROJECT_DIR$/camera1/camera1.iml" />
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\camera1\camera1.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\camera1\camera1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera2/camera2.iml" filepath="$PROJECT_DIR$/camera2/camera2.iml" />
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\camera2\camera2.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\camera2\camera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera3/camera3.iml" filepath="$PROJECT_DIR$/camera3/camera3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera4/camera4.iml" filepath="$PROJECT_DIR$/camera4/camera4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\demo\demo.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\demo\demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://E:\03_AndroidStudioProject\AndroidUsbCamera\library\library.iml" filepath="E:\03_AndroidStudioProject\AndroidUsbCamera\library\library.iml" />
+    </modules>
+  </component>
+</project>
